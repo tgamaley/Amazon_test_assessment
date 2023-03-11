@@ -5,7 +5,7 @@ Basic automation testing to verify main functionalities of the [Amazon](https://
 
 ## Execute tests & display results
 - Install [nodejs](https://nodejs.org)
-- Clone this repository: 
+- Clone this repository: https://github.com/tgamaley/Amazon_test_assessment.git
 - Run <code>npm install</code>
 - Execute tests <code>npx cypress run</code>
 - Choose  'Start e2e Testing'
